@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Student : เรียนรู้ AI ใช้อย่างฉลาดและรับผิดชอบ",
+  "description": "เว็บแอปพลิเคชันเพื่อการเรียนรู้การใช้ AI ในการศึกษาอย่างชาญฉลาดและมีความรับผิดชอบ สำหรับนักเรียนและนักศึกษา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
